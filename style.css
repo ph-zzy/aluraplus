@@ -186,7 +186,7 @@
         }
 
         .intro{
-            height: 70vh;
+            height: 100vh;
         }
 
         .container__botao {
@@ -198,7 +198,7 @@
         }
 
         .container__caixa {
-            margin: 25vh 2em;
+            margin: 10vh 2em;
         }
 
         .secundario {
@@ -211,6 +211,10 @@
             height: 70vh;
         }
 
+        .final{
+            height: 100vh;
+        }
+
         .dispositivos{
             display: block;
         }
@@ -221,8 +225,12 @@
             text-align: center;
         }
 
-        .final__logos{
+        .dispositivos__imagens{
             width: 50vw;
+        }
+
+        .final__texto{
+            font-size: 32px;
         }
 
         .footer__links {
